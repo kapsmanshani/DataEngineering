@@ -1,7 +1,7 @@
 Data engineering is the backbone of modern data-driven decision-making. 
 This article covers the essential concepts, tools, and techniques every aspiring data engineer should know, with practical insights to guide you through your learning journey.
 
-1. **Introduction to Data Engineering**
+1. **[Introduction to Data Engineering](https://github.com/kapsmanshani/DataEngineering/wiki/Introduction-to-Data-Engineering)**
     * What is Data Engineering?
     * The Role of a Data Engineer in Data Ecosystems
     * Key Responsibilities and Skills
